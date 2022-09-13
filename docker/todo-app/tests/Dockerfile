@@ -6,4 +6,4 @@ ADD node_modules.tar.gz .
 
 COPY . .
 
-CMD ["npm", "start"]
+CMD ["npm", "test"]
